@@ -1,0 +1,5 @@
+<?php
+$config['gh_api_username'] = ""; // GitHub username
+$config['gh_api_password'] = ""; // GitHub password or Personal Access Token
+$config['utils_userAgent'] = ""; // User-Agent for HTTP request
+$config['utils_cookieFile'] = "cookies.tmp";
